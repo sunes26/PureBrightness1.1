@@ -1,1 +1,0 @@
-# PureBrightness1.1
