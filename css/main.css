@@ -1,0 +1,139 @@
+.selector img{
+    position: absolute; top:0; left: 0;
+    width: 100%;
+    height: 100%;
+    }
+
+style{
+    display: none;
+}
+
+.tran{
+    transition-duration: 0.3ms;
+}
+.Rect{
+    position: absolute;
+    margin-top: 1%;
+
+}
+.rect2
+{
+    position:absolute;
+    margin-right: 100px;
+   display: block;
+
+}
+.introbtn1{
+  position: absolute;
+  left: 1230px;
+    top: 600px;
+    transition-duration: 0.2s;
+    opacity: 1;
+}
+.introbtn1 .text1{
+  position: absolute;
+  margin-top: -100px;
+  margin-left: 53px;
+}
+.introbtn1:hover{
+  
+  transition-duration: 0.5s;
+    opacity: 0.7;
+}
+.introbtn2
+{
+  position: absolute;
+  left: 1145px;
+    top: 725px;
+    opacity: 0.7;
+}
+
+.introbtn3
+{
+  position: absolute;
+  left: 1056px;
+    top: 848px;
+    transition-duration: 0.2s;
+    opacity: 1;
+}
+.introbtn3 .text3{
+  position: absolute;
+  margin-top: -100px;
+  margin-left: 57px;
+}
+.introbtn3:hover{
+  
+  transition-duration: 0.5s;
+    opacity: 0.7;
+}
+.introbtn4
+{
+  position: absolute;
+  left: 966px;
+    top: 972px;
+    opacity: 0.7;
+}
+.introbtn5
+{
+  position: absolute;
+  left: 812px;
+    top: 958px;
+    transition-duration: 0.2s;
+    opacity: 1;
+}
+.introbtn5 .text5{
+  position: absolute;
+  margin-top: -97px;
+  margin-left: 27px;
+}
+.introbtn5:hover{
+  
+  transition-duration: 0.5s;
+    opacity: 0.7;
+}
+.introbtn6
+{
+  position: absolute;
+  left: 750px;
+    top: 820px;
+    opacity: 0.7;
+}
+.introbtn7
+{
+  position: absolute;
+  left: 840px;
+    top: 698px;
+    transition-duration: 0.2s;
+    opacity: 1;
+}
+.introbtn7 .text7{
+  position: absolute;
+  margin-top: -97px;
+  margin-left: 52px;
+}
+.introbtn7:hover{
+  
+  transition-duration: 0.5s;
+    opacity: 0.7;
+}
+.introbtn8
+{
+  position: absolute;
+  left: 992px;
+    top: 712px;
+    transform: rotate(1deg);
+    opacity: 0.7;
+}
+a:link {
+  color : black;
+}
+a:visited {
+  color : black;
+}
+a:hover {
+  color : black;
+}
+a:active {
+  color : black
+}
+
